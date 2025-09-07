@@ -1,5 +1,9 @@
 📘 Titanic Survival Prediction – Mini Project - Python And Power BI
 
+## Dashboard Screenshot
+
+<img width="1293" height="729" alt="Image" src="https://github.com/user-attachments/assets/84b2ce3c-128c-4f30-bcd7-95b92763ecda" />
+
 🔹 Project Overview
 
 This is my first mini project as part of my MSc in Business Analytics at University College Dublin (UCD).
