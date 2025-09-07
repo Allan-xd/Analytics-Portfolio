@@ -1,4 +1,4 @@
-📘 Titanic Survival Prediction – Week 1 Mini Project
+📘 Titanic Survival Prediction – Mini Project - Python And Power BI
 
 🔹 Project Overview
 
